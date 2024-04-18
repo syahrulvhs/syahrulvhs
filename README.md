@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syahrul Nur Ramadhani</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Python, Java**
+- 🌱 I’m currently learning **Python, Bootstrap**
 
 - ⚡ Fun fact **I like solving problems**
 
